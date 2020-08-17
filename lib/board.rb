@@ -1,2 +1,8 @@
+
 local variable = "board"
+
+
+
+
+
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
