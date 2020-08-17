@@ -1,8 +1,2 @@
-
-local variable = "board"
-
-
-
-
-
+lib/board.rb = "board"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " ",]
